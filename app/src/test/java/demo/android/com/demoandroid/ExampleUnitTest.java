@@ -1,4 +1,4 @@
-package com.android.demoandroid;
+package demo.android.com.demoandroid;
 
 import org.junit.Test;
 
